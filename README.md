@@ -1,1 +1,1 @@
-# splurty
+# splurty coding environment
